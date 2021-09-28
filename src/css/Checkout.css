@@ -1,0 +1,31 @@
+.checkout{
+    display: flex;
+    max-width: 1500px;
+    margin: auto;
+}
+.left_part>img{
+    width: 100%;
+}
+.cart_heading{
+    border-bottom: 1px solid grey;
+    font-size:32px;
+    font-weight: bold;
+}
+
+.right_part{
+    background-color: lightgray;
+    padding: 2%;
+    height: fit-content;
+}
+
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+}

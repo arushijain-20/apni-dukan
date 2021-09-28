@@ -16,7 +16,6 @@ const Products = () => {
 
   return (
     <>
-      
       <div className="heading">MEN</div>
       <div className="card_container">
         {products
@@ -24,6 +23,7 @@ const Products = () => {
           .map((filteredProducts) => {
             return (
               <Product
+                id={filteredProducts.id}
                 title={filteredProducts.title}
                 price={filteredProducts.price}
                 image={filteredProducts.image}
