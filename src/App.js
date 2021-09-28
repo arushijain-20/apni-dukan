@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/amazon-clone">
       <div className="App">
         <Header />
         <Switch>
