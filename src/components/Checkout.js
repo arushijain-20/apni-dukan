@@ -12,11 +12,7 @@ const Checkout = () => {
         <div className="cart_heading">Your Shopping Cart</div>
       </div>
       <div className="right_part">
-        <div className="subtotal">SubTotal(0 items): $0</div>
-        <div>
-          <input type="checkbox"></input>
-          This order contains a gift.
-        </div>
+        
         <button>Proceed to Checkout</button>
       </div>
     </div>
