@@ -2,9 +2,12 @@
     display: flex;
     max-width: 1500px;
     margin: auto;
+    background-color: white;
+    
 }
 .left_part>img{
     width: 100%;
+   
 }
 .cart_heading{
     border-bottom: 1px solid grey;
@@ -12,20 +15,16 @@
     font-weight: bold;
 }
 
-.right_part{
-    background-color: lightgray;
-    padding: 2%;
-    height: fit-content;
+.cart_wrapper{
+    margin: 2%;
+    
 }
 
-.subtotal{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 300px;
-    height: 100px;
-    padding: 20px;
-    background-color: #f3f3f3;
-    border: 1px solid #dddddd;
-    border-radius: 3px;
+.cart_wrapper>span{
+    font-size: larger;
+    color: grey
+
 }
+
+
+

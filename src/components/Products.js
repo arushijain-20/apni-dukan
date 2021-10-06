@@ -28,6 +28,8 @@ const Products = () => {
                 price={filteredProducts.price}
                 image={filteredProducts.image}
                 rating={filteredProducts.rating.rate}
+                product={filteredProducts}
+                key={filteredProducts.id}
               />
             );
           })}
@@ -43,6 +45,8 @@ const Products = () => {
                 price={filteredProducts.price}
                 image={filteredProducts.image}
                 rating={filteredProducts.rating.rate}
+                product={filteredProducts}
+                key={filteredProducts.id}
               />
             );
           })}
@@ -58,6 +62,8 @@ const Products = () => {
                 price={filteredProducts.price}
                 image={filteredProducts.image}
                 rating={filteredProducts.rating.rate}
+                product={filteredProducts}
+                key={filteredProducts.id}
               />
             );
           })}
@@ -69,10 +75,12 @@ const Products = () => {
           .map((filteredProducts) => {
             return (
               <Product
+              key={filteredProducts.id}
                 title={filteredProducts.title}
                 price={filteredProducts.price}
                 image={filteredProducts.image}
                 rating={filteredProducts.rating.rate}
+                product={filteredProducts}
               />
             );
           })}
