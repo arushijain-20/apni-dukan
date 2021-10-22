@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
 import "../css/Checkout.css";
-import Subtotal from "./Subtotal";
+import Subtotal from "../components/Subtotal";
 import CartContext from "../context/CartContext";
-import Cart_Item from "./Cart_Item";
+import Cart_Item from "../components/Cart_Item";
 
 const Checkout = () => {
   const { cartItems } = useContext(CartContext);

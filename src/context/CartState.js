@@ -2,10 +2,14 @@ import React, { useReducer } from "react";
 import CartContext from "./CartContext";
 import CartReducer from "./CartReducer";
 
+
+export const initialState = {
+  cartItems: [],
+  user:null
+};
+
 const CartState = ({ children }) => {
-  const initialState = {
-    cartItems: [],
-  };
+  
   const [state, dispatch] = useReducer(CartReducer, initialState);
 
   const addToCart = (item) => {
@@ -20,6 +24,9 @@ const CartState = ({ children }) => {
       payload: id,
     });
   };
+
+   
+   
 
   return (
     <div>
