@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/amazon-clone/static/css/main.1f4e11e1.chunk.css",
-    "main.js": "/amazon-clone/static/js/main.c4e8b125.chunk.js",
-    "main.js.map": "/amazon-clone/static/js/main.c4e8b125.chunk.js.map",
-    "runtime-main.js": "/amazon-clone/static/js/runtime-main.12fed0df.js",
-    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.12fed0df.js.map",
-    "static/js/2.671dd2c1.chunk.js": "/amazon-clone/static/js/2.671dd2c1.chunk.js",
-    "static/js/2.671dd2c1.chunk.js.map": "/amazon-clone/static/js/2.671dd2c1.chunk.js.map",
-    "static/js/3.f99c4376.chunk.js": "/amazon-clone/static/js/3.f99c4376.chunk.js",
-    "static/js/3.f99c4376.chunk.js.map": "/amazon-clone/static/js/3.f99c4376.chunk.js.map",
+    "main.css": "/amazon-clone/static/css/main.e38e4bbf.chunk.css",
+    "main.js": "/amazon-clone/static/js/main.90faef5b.chunk.js",
+    "main.js.map": "/amazon-clone/static/js/main.90faef5b.chunk.js.map",
+    "runtime-main.js": "/amazon-clone/static/js/runtime-main.71f8149b.js",
+    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.71f8149b.js.map",
+    "static/js/2.d79ef958.chunk.js": "/amazon-clone/static/js/2.d79ef958.chunk.js",
+    "static/js/2.d79ef958.chunk.js.map": "/amazon-clone/static/js/2.d79ef958.chunk.js.map",
+    "static/js/3.b524a241.chunk.js": "/amazon-clone/static/js/3.b524a241.chunk.js",
+    "static/js/3.b524a241.chunk.js.map": "/amazon-clone/static/js/3.b524a241.chunk.js.map",
     "index.html": "/amazon-clone/index.html",
-    "static/css/main.1f4e11e1.chunk.css.map": "/amazon-clone/static/css/main.1f4e11e1.chunk.css.map",
-    "static/js/2.671dd2c1.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.671dd2c1.chunk.js.LICENSE.txt"
+    "static/css/main.e38e4bbf.chunk.css.map": "/amazon-clone/static/css/main.e38e4bbf.chunk.css.map",
+    "static/js/2.d79ef958.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.d79ef958.chunk.js.LICENSE.txt",
+    "static/media/banner1.65bb30fc.jpeg": "/amazon-clone/static/media/banner1.65bb30fc.jpeg",
+    "static/media/banner2.637c5298.jpg": "/amazon-clone/static/media/banner2.637c5298.jpg",
+    "static/media/banner3.14e634c0.jpeg": "/amazon-clone/static/media/banner3.14e634c0.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12fed0df.js",
-    "static/js/2.671dd2c1.chunk.js",
-    "static/css/main.1f4e11e1.chunk.css",
-    "static/js/main.c4e8b125.chunk.js"
+    "static/js/runtime-main.71f8149b.js",
+    "static/js/2.d79ef958.chunk.js",
+    "static/css/main.e38e4bbf.chunk.css",
+    "static/js/main.90faef5b.chunk.js"
   ]
 }
