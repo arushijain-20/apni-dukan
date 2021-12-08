@@ -3,8 +3,12 @@
     max-width: 1500px;
     margin: auto;
     background-color: white;
-    
+  
 }
+.wrapper{
+    margin-top: 50px;
+}
+
 .left_part>img{
     width: 100%;
    

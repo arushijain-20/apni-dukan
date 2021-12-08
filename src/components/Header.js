@@ -1,14 +1,16 @@
-import React, { useReducer } from "react";
+import React, { useReducer, useContext } from "react";
 import "../css/Header.css";
 import SearchIcon from "@mui/icons-material/Search";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import { Link } from "react-router-dom";
 import LoginReducer from "../context/LoginReducer";
 import { initialUser } from "../context/LoginReducer";
+import CartContext from "../context/CartContext";
 
 import { auth } from "../firebase";
 
 function Header() {
+  const { cartItems } = useContext(CartContext);
   const [{ user }] = useReducer(LoginReducer, initialUser);
 
   const handleAuthentication = (e) => {
@@ -70,6 +72,7 @@ function Header() {
         <Link to="/checkout">
           <div className="header_option_basket">
             <ShoppingCartIcon></ShoppingCartIcon>
+            <span>{cartItems.length}</span>
           </div>
         </Link>
       </div>

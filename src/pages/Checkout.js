@@ -8,7 +8,7 @@ const Checkout = () => {
   const { cartItems } = useContext(CartContext);
   return (
     <div className="checkout">
-      <div className="left_part">
+      <div className="left_part wrapper">
         <img
           alt="banner"
           src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/PrimeRewards/LP_Revamp/PC_Header_Banner._CB468631809_.jpg"
@@ -35,7 +35,7 @@ const Checkout = () => {
           )}
         </div>
       </div>
-      <div className="right_part">
+      <div className="right_part wrapper">
         <Subtotal />
       </div>
     </div>
