@@ -3,7 +3,7 @@ import "../css/Checkout.css";
 import Subtotal from "../components/Subtotal";
 import CartContext from "../context/CartContext";
 import Cart_Item from "../components/Cart_Item";
-
+import banner from "../images/pic4.jpg"
 const Checkout = () => {
   const { cartItems } = useContext(CartContext);
   return (
@@ -11,7 +11,7 @@ const Checkout = () => {
       <div className="left_part wrapper">
         <img
           alt="banner"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/PrimeRewards/LP_Revamp/PC_Header_Banner._CB468631809_.jpg"
+          src={banner}
         ></img>
         <div className="cart_heading">Your Shopping Cart</div>
         <div className="cart_wrapper">

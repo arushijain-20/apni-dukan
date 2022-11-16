@@ -11,6 +11,7 @@
   }
   
   .slide {
+    margin-top: 50px;
     display: inline-block;
     vertical-align: top;
     height: 700px;

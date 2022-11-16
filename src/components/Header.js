@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import LoginReducer from "../context/LoginReducer";
 import { initialUser } from "../context/LoginReducer";
 import CartContext from "../context/CartContext";
-
+import Logo from "../images/logo.png"
 import { auth } from "../firebase";
 
 function Header() {
@@ -49,7 +49,7 @@ function Header() {
       <Link to="/">
         <img
           className="header_logo"
-          src="https://zeevector.com/wp-content/uploads/LOGO/Amazon-India-Logo-PNG-White.png"
+          src={Logo}
           alt="logo"
         />
       </Link>

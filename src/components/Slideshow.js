@@ -1,9 +1,9 @@
 import React from "react";
 import '../css/Slideshow.css'
 
-import Banner1 from "../images/banner1.jpeg"
-import Banner2 from "../images/banner2.jpg"
-import Banner3 from "../images/banner3.jpeg"
+import Banner1 from "../images/pic1.jpg"
+import Banner2 from "../images/pic2.jpg"
+import Banner3 from "../images/pic3.jpg"
 
 const images = [Banner1, Banner2, Banner3];
 const delay = 2500;

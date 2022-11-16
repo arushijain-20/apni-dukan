@@ -1,11 +1,9 @@
-import { Highlight } from "@mui/icons-material";
+
 import React, { useContext } from "react";
 import CartContext from "../context/CartContext";
 import "../css/Product.css";
 
-const highlight =(e)=>{
-  e.target.element.className="clicked"
-}
+
 
 const Product = ({id,title,price,image,rating,product}) => {
   const {addToCart}=useContext(CartContext);
