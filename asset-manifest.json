@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/amazon-clone/static/css/main.867a851a.chunk.css",
-    "main.js": "/amazon-clone/static/js/main.e7cbc1e5.chunk.js",
-    "main.js.map": "/amazon-clone/static/js/main.e7cbc1e5.chunk.js.map",
-    "runtime-main.js": "/amazon-clone/static/js/runtime-main.71f8149b.js",
-    "runtime-main.js.map": "/amazon-clone/static/js/runtime-main.71f8149b.js.map",
-    "static/js/2.d79ef958.chunk.js": "/amazon-clone/static/js/2.d79ef958.chunk.js",
-    "static/js/2.d79ef958.chunk.js.map": "/amazon-clone/static/js/2.d79ef958.chunk.js.map",
-    "static/js/3.b524a241.chunk.js": "/amazon-clone/static/js/3.b524a241.chunk.js",
-    "static/js/3.b524a241.chunk.js.map": "/amazon-clone/static/js/3.b524a241.chunk.js.map",
-    "index.html": "/amazon-clone/index.html",
-    "static/css/main.867a851a.chunk.css.map": "/amazon-clone/static/css/main.867a851a.chunk.css.map",
-    "static/js/2.d79ef958.chunk.js.LICENSE.txt": "/amazon-clone/static/js/2.d79ef958.chunk.js.LICENSE.txt",
-    "static/media/logo.011d1425.png": "/amazon-clone/static/media/logo.011d1425.png",
-    "static/media/pic1.b00735b9.jpg": "/amazon-clone/static/media/pic1.b00735b9.jpg",
-    "static/media/pic2.a6e5082e.jpg": "/amazon-clone/static/media/pic2.a6e5082e.jpg",
-    "static/media/pic3.c5844748.jpg": "/amazon-clone/static/media/pic3.c5844748.jpg",
-    "static/media/pic4.f44b5ff8.jpg": "/amazon-clone/static/media/pic4.f44b5ff8.jpg"
+    "main.css": "/apni-dukan/static/css/main.867a851a.chunk.css",
+    "main.js": "/apni-dukan/static/js/main.5e63f1da.chunk.js",
+    "main.js.map": "/apni-dukan/static/js/main.5e63f1da.chunk.js.map",
+    "runtime-main.js": "/apni-dukan/static/js/runtime-main.da01a947.js",
+    "runtime-main.js.map": "/apni-dukan/static/js/runtime-main.da01a947.js.map",
+    "static/js/2.963bebb5.chunk.js": "/apni-dukan/static/js/2.963bebb5.chunk.js",
+    "static/js/2.963bebb5.chunk.js.map": "/apni-dukan/static/js/2.963bebb5.chunk.js.map",
+    "static/js/3.ebfb4221.chunk.js": "/apni-dukan/static/js/3.ebfb4221.chunk.js",
+    "static/js/3.ebfb4221.chunk.js.map": "/apni-dukan/static/js/3.ebfb4221.chunk.js.map",
+    "index.html": "/apni-dukan/index.html",
+    "static/css/main.867a851a.chunk.css.map": "/apni-dukan/static/css/main.867a851a.chunk.css.map",
+    "static/js/2.963bebb5.chunk.js.LICENSE.txt": "/apni-dukan/static/js/2.963bebb5.chunk.js.LICENSE.txt",
+    "static/media/logo.011d1425.png": "/apni-dukan/static/media/logo.011d1425.png",
+    "static/media/pic1.b00735b9.jpg": "/apni-dukan/static/media/pic1.b00735b9.jpg",
+    "static/media/pic2.a6e5082e.jpg": "/apni-dukan/static/media/pic2.a6e5082e.jpg",
+    "static/media/pic3.c5844748.jpg": "/apni-dukan/static/media/pic3.c5844748.jpg",
+    "static/media/pic4.f44b5ff8.jpg": "/apni-dukan/static/media/pic4.f44b5ff8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.71f8149b.js",
-    "static/js/2.d79ef958.chunk.js",
+    "static/js/runtime-main.da01a947.js",
+    "static/js/2.963bebb5.chunk.js",
     "static/css/main.867a851a.chunk.css",
-    "static/js/main.e7cbc1e5.chunk.js"
+    "static/js/main.5e63f1da.chunk.js"
   ]
 }
